@@ -2,7 +2,6 @@ package br.com.lucasladeira.apuracaoeleicao2022.controllers;
 
 import br.com.lucasladeira.apuracaoeleicao2022.entities.Resultado;
 import br.com.lucasladeira.apuracaoeleicao2022.services.ApuracaoService;
-import br.com.lucasladeira.apuracaoeleicao2022.services.TSEServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
